@@ -1,0 +1,33 @@
+@media(max-width:767px)
+{
+    .carousel-caption.need 
+    {
+        bottom:20px;
+    }
+    .navbar-inverse .navbar-nav > li > a
+    {
+        padding-top:5px;
+        padding-bottom:5px;
+        
+    }
+    .navbar-fixed-top .navbar-collapse,
+    .navbar-fixed-bottom .navbar-collapse
+    {
+        max-height:none;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px)
+{
+
+}
+
+@media(min-width:992px) and (max-width:1199px)
+{
+    
+}
+
+@media(min-width:1200px) 
+{
+    
+}
